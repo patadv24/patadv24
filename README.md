@@ -70,7 +70,7 @@ Security
 ```
 
 ## 🚀 Featured Projects
-🛡️ Security MCP Server
+### 🛡️ Security MCP Server
 A Python-based Model Context Protocol (MCP) server exposing cybersecurity analysis capabilities as standardized tools.
 Capabilities:
 - IP analysis
@@ -88,7 +88,7 @@ Engineering focus:
 - MCP Inspector validation
 - Reproducible dependency configuration
 
-🔎 AI Identity Attack Detection Engine
+### 🔎 AI Identity Attack Detection Engine
 A standalone cybersecurity project focused on detecting suspicious authentication and identity behavior.
 The goal is to build a system that can learn normal authentication patterns, identify anomalies, correlate multiple signals, assign risk, and provide investigation-oriented explanations.
 Planned focus:
@@ -100,7 +100,7 @@ Planned focus:
 - Security investigation
 🚧 Currently in development
 
-🌐 Python Network Security Tools
+### 🌐 Python Network Security Tools
 A collection of practical Python security projects covering networking and reconnaissance concepts.
 Projects include:
 - Network Sniffer
