@@ -67,6 +67,7 @@ Security
 ├── Blue Team / SOC
 ├── Vulnerability Analysis
 └── Security Automation
+```
 
 ## 🚀 Featured Projects
 🛡️ Security MCP Server
